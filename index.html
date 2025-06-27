@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neon Stopwatch | SkillCraft</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="glass-card">
+            <h1 class="title">
+                <span class="neon-text">STOPWATCH</span>
+                <span class="subtitle">WEB APPLICATION</span>
+            </h1>
+            
+            <div class="display" id="display">00:00:00</div>
+            
+            <div class="controls">
+                <button id="startStop" class="btn-gradient green">
+                    <i class="fas fa-play"></i> Start
+                </button>
+                <button id="lap" class="btn-gradient blue">
+                    <i class="fas fa-flag"></i> Lap
+                </button>
+                <button id="reset" class="btn-gradient red">
+                    <i class="fas fa-redo"></i> Reset
+                </button>
+            </div>
+            
+            <div class="laps-container">
+                <h3><i class="fas fa-history"></i> Lap Times</h3>
+                <div class="laps" id="laps"></div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>SkillCraft Technology © 2023</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
