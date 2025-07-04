@@ -31,7 +31,9 @@ stopwatch-app/
 🛠️ Technologies Used
 
 🧱 HTML5 – Markup structure
+
 🎨 CSS3 – Styling and layout
+
 ⚙️ JavaScript (ES6) – Interactivity and functionality
 
 📦 How to Run
