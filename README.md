@@ -20,6 +20,7 @@ Users can start, pause, reset the timer, and track multiple lap times in a sleek
 📁 Folder Structure
 
 stopwatch-app/
+
 ├── index.html       # Main HTML structure
 
 ├── style.css        # Stylesheet for layout and visuals
@@ -36,7 +37,8 @@ stopwatch-app/
 📦 How to Run
 
 Clone the repository:
-git clone https:https://github.com/fathimathrafana/SCT_WD_2
+
+git clone https:https://github.com/fathimathrafana/SCT_WD_2.git
 
 How to Use 🎮 
 
