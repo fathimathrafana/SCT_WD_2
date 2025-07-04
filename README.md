@@ -21,13 +21,13 @@ Users can start, pause, reset the timer, and track multiple lap times in a sleek
 
 stopwatch-app/
 
-├── index.html       # Main HTML structure
+├── index.html      
 
-├── style.css        # Stylesheet for layout and visuals
+├── style.css       
 
-├── script.js        # JavaScript logic for stopwatch functionality
+├── script.js        
 
-└── README.md        # Project documentation
+
 🛠️ Technologies Used
 
 🧱 HTML5 – Markup structure
